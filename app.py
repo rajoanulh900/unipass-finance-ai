@@ -5,7 +5,7 @@ import requests
 import datetime
 import random
 import io
-import plotly.express as px
+//import plotly.express as px
 from openpyxl import Workbook
 from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
